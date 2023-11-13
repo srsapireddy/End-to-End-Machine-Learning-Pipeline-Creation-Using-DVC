@@ -239,6 +239,8 @@ dvc remove train
 dvc remove evaluate
 ```
 
+## Final Folder Directory
+![image](https://github.com/srsapireddy/End-to-End-Machine-Learning-Pipeline-Creation-Using-DVC/assets/32967087/d0d3b8d1-6dcd-4938-b7ae-5e5182f898b2)
 
 
 
