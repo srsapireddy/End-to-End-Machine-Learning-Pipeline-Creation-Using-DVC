@@ -143,7 +143,7 @@ plots:
 
 ```
 
-## DVC Pipiline Command
+## DVC Pipeline Command
 ```
 dvc repro
 ```
