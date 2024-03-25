@@ -1,6 +1,6 @@
 # End-to-End-Machine-Learning-Pipeline-Creation-Using-DVC
 ## Initial Directory Structure
-![image](https://github.com/srsapireddy/End-to-End-Machine-Learning-Pipeline-Creation-Using-DVC/assets/32967087/6f5f3f5c-c4fa-4256-990c-fe62686f196f)
+![image](https://github.com/srsapireddy/End-to-End-Machine-Learning-Pipeline-Creation-Using-DVC/assets/32967087/6f5f3f5c-c4fa-4256-990c-fe62686f196f) </br>
 
 ## Creating Python Environment
 ```
